@@ -1,0 +1,4 @@
+Input Age,Expected Result,Actual Result,Valid/Invalid
+50,True,True,Valid
+1,True,True,Valid
+100,True,True,Valid
