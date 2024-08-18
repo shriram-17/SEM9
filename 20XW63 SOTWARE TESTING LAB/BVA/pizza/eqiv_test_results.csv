@@ -1,0 +1,7 @@
+Test Case,Expected,Actual,Outcome
+1,Success,Success,Passed
+10,Success,Success,Passed
+0,Invalid order quantity,Invalid order quantity,Passed
+-100,Invalid order quantity,Invalid order quantity,Passed
+11,Invalid order quantity,Invalid order quantity,Passed
+100,Invalid order quantity,Invalid order quantity,Passed
